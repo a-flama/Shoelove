@@ -9,5 +9,4 @@ Goals we wish to accomplish..
 2. A secure login database for saved negotiations and possibly subscription pricing
 3. An api which allow for active shoe comparision with stockX (a online market for shoes and apparel)
 
-4. 
 
