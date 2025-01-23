@@ -11,7 +11,7 @@ Goals we wish to accomplish..
 
 
 -------------------------------------------------------------------------------------------------------------------
-Day 2
+Day 2 1/23/25
 
 Currently our organizing our final thoughts on what we wish to do with the app and what we can use to achieve our goals, as well as ensuring the security by seeing what steps in the sdlc we can take.
 
